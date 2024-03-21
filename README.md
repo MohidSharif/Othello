@@ -1,6 +1,6 @@
 # Othello
 
-To run the game goto:
+To run the game:
 Othello/src/ca/utoronto/utm/othello/viewcontroller
 and run OthelloApplication.java 
 
